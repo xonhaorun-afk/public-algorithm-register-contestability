@@ -1,0 +1,13 @@
+<svg width="1400" height="720" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 720">
+<rect width="1400" height="720" fill="#FFFFFF"/>
+<g stroke="#DCE4EC"><path d="M205.5 125V655M380.5 125V655M555.5 125V655M730.5 125V655M905.5 125V655M1080.5 125V655"/></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" fill="#23364D" font-size="16" text-anchor="end">
+<text x="197" y="174">知情</text><text x="197" y="262">理解</text><text x="197" y="351">质疑</text><text x="197" y="439">救济词汇</text><text x="197" y="528">救济导航（人工确认）</text><text x="197" y="616">完整披露链</text></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" fill="#23364D" font-size="12" text-anchor="middle"><text x="205" y="674">0%</text><text x="380" y="674">20%</text><text x="555" y="674">40%</text><text x="730" y="674">60%</text><text x="905" y="674">80%</text><text x="1080" y="674">100%</text><text x="642" y="704">条目占比（%）</text></g>
+<g fill="#F1F4F8"><path d="M205 153h875v32H205zM205 241h875v32H205zM205 330h875v32H205zM205 418h875v32H205zM205 507h875v32H205zM205 595h875v32H205z"/></g>
+<g fill="#3568B8"><path d="M205 153h867v32H205zM205 241h644v32H205zM205 330h842v32H205z"/></g>
+<g fill="#C94C4C"><path d="M205 418h94v32h-94zM205 507h9v32h-9zM205 595h8v32h-8z"/></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="14">
+<text x="1062" y="174" text-anchor="end" fill="#FFFFFF">99.1% [98.5%, 99.5%]</text><text x="859" y="262" fill="#23364D">73.6% [71.4%, 75.7%]</text><text x="1037" y="351" text-anchor="end" fill="#FFFFFF">96.3% [95.2%, 97.1%]</text><text x="309" y="439" fill="#23364D">10.8% [9.34%, 12.4%]</text><text x="224" y="528" fill="#23364D">1.06% [0.66%, 1.69%]</text><text x="223" y="616" fill="#23364D">0.93% [0.57%, 1.53%]</text></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif"><text x="36" y="50" font-size="25" font-weight="700" fill="#23364D">披露链各环节覆盖率</text><text x="36" y="82" font-size="14" fill="#6C7A89">荷兰国家算法登记册当前快照，N＝1,608；括号内为 Wilson 95% 置信区间</text></g>
+</svg>

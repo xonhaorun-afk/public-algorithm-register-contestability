@@ -1,0 +1,15 @@
+<svg width="1180" height="700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 700">
+<rect width="1180" height="700" fill="#FFFFFF"/>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif"><text x="36" y="50" font-size="25" font-weight="700" fill="#23364D">不同发布类别的披露率</text><text x="36" y="82" font-size="14" fill="#6C7A89">单元格为条目百分比；救济导航事件稀疏，类别差异不应作因果解释</text></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="15" fill="#23364D" text-anchor="end"><text x="142" y="201">救济导航</text><text x="142" y="314">救济词汇</text><text x="142" y="426">质疑</text><text x="142" y="539">理解</text></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="15" fill="#23364D" text-anchor="middle"><text x="310" y="615">高风险 AI</text><text x="630" y="615">有影响力算法</text><text x="950" y="615">其他算法</text></g>
+<g stroke="#FFFFFF" stroke-width="5">
+<path d="M150 140h320v107H150zM470 140h320v107H470z" fill="#A7C2E3"/><path d="M790 140h320v107H790z" fill="#F8DEDA"/>
+<path d="M150 252h320v108H150zM470 252h320v108H470z" fill="#A7C2E3"/><path d="M790 252h320v108H790z" fill="#F1B4A8"/>
+<path d="M150 365h320v107H150zM470 365h320v107H470zM790 365h320v107H790z" fill="#214F96"/>
+<path d="M150 477h320v113H150zM470 477h320v113H470zM790 477h320v113H790z" fill="#5B8BCB"/></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="700" text-anchor="middle">
+<g fill="#23364D"><text x="310" y="202">9.09%</text><text x="630" y="202">1.53%</text><text x="950" y="202">0.24%</text><text x="310" y="314">11.4%</text><text x="630" y="314">18.9%</text><text x="950" y="314">3.78%</text></g>
+<g fill="#FFFFFF"><text x="310" y="426">93.2%</text><text x="630" y="426">97.5%</text><text x="950" y="426">95.4%</text><text x="310" y="539">63.6%</text><text x="630" y="539">74.4%</text><text x="950" y="539">73.4%</text></g></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="12" fill="#6C7A89"><rect x="385" y="657" width="20" height="14" rx="3" fill="#F8DEDA"/><text x="415" y="669">0–1%</text><rect x="480" y="657" width="20" height="14" rx="3" fill="#F1B4A8"/><text x="510" y="669">1–5%</text><rect x="575" y="657" width="20" height="14" rx="3" fill="#A7C2E3"/><text x="605" y="669">5–20%</text><rect x="690" y="657" width="20" height="14" rx="3" fill="#5B8BCB"/><text x="720" y="669">20–80%</text><rect x="820" y="657" width="20" height="14" rx="3" fill="#214F96"/><text x="850" y="669">80–100%</text></g>
+</svg>

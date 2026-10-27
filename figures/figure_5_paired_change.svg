@@ -1,0 +1,12 @@
+<svg width="1280" height="720" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif"><text x="36" y="50" font-size="25" font-weight="700" fill="#23364D">同一发布标准内的首末版本配对变化</text><text x="36" y="82" font-size="14" fill="#6C7A89">539个具有至少两个1.0版本且有发布日期的算法；圆点为首版／末版，连线仅表示方向</text></g>
+<g stroke="#DCE4EC"><path d="M110 635H1210M110 536H1210M110 437H1210M110 338H1210M110 239H1210M110 140H1210"/></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="12" fill="#23364D" text-anchor="end"><text x="102" y="640">0%</text><text x="102" y="541">20%</text><text x="102" y="442">40%</text><text x="102" y="343">60%</text><text x="102" y="244">80%</text><text x="102" y="145">100%</text></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="16" fill="#23364D" text-anchor="middle"><text x="247" y="665">知情</text><text x="522" y="665">理解</text><text x="797" y="665">质疑</text><text x="1072" y="665">救济词汇</text></g>
+<g stroke="#2B8C82" stroke-width="5"><path d="M247 152V145M522 300V289M797 179V172M1072 589V588"/></g>
+<g fill="#FFFFFF" stroke="#6C7A89" stroke-width="3"><circle cx="247" cy="152" r="9"/><circle cx="522" cy="300" r="9"/><circle cx="797" cy="179" r="9"/><circle cx="1072" cy="589" r="9"/></g>
+<g fill="#2B8C82"><circle cx="247" cy="145" r="10"/><circle cx="522" cy="289" r="10"/><circle cx="797" cy="172" r="10"/><circle cx="1072" cy="588" r="10"/></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="15" font-weight="600" fill="#2B8C82"><text x="265" y="140">+1.48 pp</text><text x="540" y="284">+2.23 pp</text><text x="815" y="167">+1.30 pp</text><text x="1090" y="583">+0.19 pp</text></g>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="14" fill="#6C7A89"><circle cx="188" cy="99" r="7" fill="#FFFFFF" stroke="#6C7A89" stroke-width="2"/><text x="203" y="104">首版</text><circle cx="272" cy="99" r="7" fill="#2B8C82"/><text x="287" y="104">末版</text></g>
+</svg>
