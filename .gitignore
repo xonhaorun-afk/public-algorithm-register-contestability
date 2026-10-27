@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+analysis/node_modules/
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log.tmp
+
+# Verifier caches only; formal run logs are tracked
+verifier/**/__pycache__/

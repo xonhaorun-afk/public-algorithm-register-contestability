@@ -1,0 +1,27 @@
+{
+  "snapshot": "2026-10-28",
+  "language": "NLD",
+  "note": "Archived inputs used by the paper; re-downloading later does not reproduce this snapshot.",
+  "files": [
+    {
+      "kind": "current",
+      "url": "https://algoritmes.overheid.nl/api/downloads/NLD?filetype=csv",
+      "file": "data/algorithms_current_2026-10-28.csv",
+      "bytes": 6570571,
+      "sha256": "062550033289976baa6ee2b75a923c991c984e4ccf9d676297b434a374aad01f",
+      "rows": 1608,
+      "columns": 31,
+      "unique_algorithm_ids": 1608
+    },
+    {
+      "kind": "history",
+      "url": "https://algoritmes.overheid.nl/api/downloads/history/NLD?filetype=csv",
+      "file": "data/algorithms_history_2026-10-28.csv",
+      "bytes": 12739124,
+      "sha256": "83d3cbafb93146c5c39fead5cb8de2ba75c859e24d0e5120c56d4f5115daf54f",
+      "rows": 3035,
+      "columns": 52,
+      "unique_algorithm_ids": 1629
+    }
+  ]
+}
