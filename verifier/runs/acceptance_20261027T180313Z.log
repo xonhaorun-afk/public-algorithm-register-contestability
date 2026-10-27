@@ -1,0 +1,110 @@
+timestamp_start_utc=2026-10-27T18:03:13Z
+command=python3 analysis/analyze.py && (cd analysis && node render_charts.mjs) && python3 analysis/svg_to_png.py && python3 verifier/verify.py
+{
+  "snapshot": "2026-10-28",
+  "current_rows": 1608,
+  "current_unique_algorithms": 1608,
+  "current_organizations": 346,
+  "history_rows": 3035,
+  "history_unique_algorithms": 1629,
+  "multi_version_algorithms": 661,
+  "paired_within_v1_algorithms": 539,
+  "automated_remedy_candidates": 22,
+  "manually_validated_remedy_guidance": 17,
+  "manual_review_records": 62,
+  "category_counts": {
+    "Overige algoritmes": 846,
+    "Impactvolle algoritmes": 718,
+    "Hoog-risico AI-systeem": 44
+  },
+  "status_counts": {
+    "In gebruik": 1461,
+    "In ontwikkeling": 78,
+    "Buiten gebruik": 69
+  },
+  "coverage": {
+    "notice": {
+      "count": 1594,
+      "percent": 99.12935323383084
+    },
+    "explain": {
+      "count": 1183,
+      "percent": 73.56965174129353
+    },
+    "challenge": {
+      "count": 1548,
+      "percent": 96.26865671641791
+    },
+    "remedy_mention": {
+      "count": 173,
+      "percent": 10.75870646766169
+    },
+    "remedy_guidance": {
+      "count": 17,
+      "percent": 1.0572139303482586
+    },
+    "chain_complete": {
+      "count": 15,
+      "percent": 0.9328358208955224
+    }
+  }
+}
+Rendered five ECharts SVG figures to /mnt/agents/output/public-algorithm-registers/figures
+figure_1_disclosure_chain.png
+figure_2_coverage.png
+figure_3_category_heatmap.png
+figure_4_organization_heatmap.png
+figure_5_paired_change.png
+[PASS] 必需文件完整｜缺失=[]
+[PASS] 原始快照哈希：current｜预期=062550033289976baa6ee2b75a923c991c984e4ccf9d676297b434a374aad01f；实际=062550033289976baa6ee2b75a923c991c984e4ccf9d676297b434a374aad01f
+[PASS] 原始快照哈希：history｜预期=83d3cbafb93146c5c39fead5cb8de2ba75c859e24d0e5120c56d4f5115daf54f；实际=83d3cbafb93146c5c39fead5cb8de2ba75c859e24d0e5120c56d4f5115daf54f
+[PASS] 当前原始规模｜(1608, 31)
+[PASS] 历史原始规模｜(3035, 52)
+[PASS] 当前算法标识唯一｜唯一=1608
+[PASS] 机构数｜机构=346
+[PASS] 编码表规模｜(1608, 26)
+[PASS] 核心计数：notice｜编码=1594；summary=1594；论文预期=1594
+[PASS] 核心计数：explain｜编码=1183；summary=1183；论文预期=1183
+[PASS] 核心计数：challenge｜编码=1548；summary=1548；论文预期=1548
+[PASS] 核心计数：remedy_mention｜编码=173；summary=173；论文预期=173
+[PASS] 核心计数：remedy_guidance｜编码=17；summary=17；论文预期=17
+[PASS] 核心计数：chain_complete｜编码=15；summary=15；论文预期=15
+[PASS] 人工复核总数与构成｜总=62；候选=22；随机=40
+[PASS] 人工真阳性与假阳性｜真=17；假=5
+[PASS] 复核理由完整｜62条均应有理由
+[PASS] 自动候选已全部复核｜22个自动候选均有逐条判定
+[PASS] 救济导航机构集中度｜机构=7；{'Provincie Zuid-Holland': 8, 'Gemeente Amsterdam': 4, 'Gemeente Zeist': 1, 'Stichting Skal Biocontrole': 1, 'Gemeente Arnhem': 1, 'Centraal Bureau Rijvaardigheidsbewijzen': 1, 'Gemeente Den Haag': 1}
+[PASS] 高风险导航模板边界｜高风险导航=4；机构=['Provincie Zuid-Holland']
+[PASS] Douane反例｜n=48；词=46；导航=0
+[PASS] 同标准配对数｜行=4；pairs=[539]
+[PASS] 配对精确检验｜notice=0.0078125；explain=0.0018310546875
+[PASS] 稀疏结果未建模｜模型结果=['explain']
+[FAIL] 字符门槛下导航稳定｜计数=[17, 13, 17, 13, 17, 13]
+[PASS] 机构等权与bootstrap｜行=6
+[PASS] 论文篇幅｜字符=24299
+[PASS] 论文结构：摘要｜应存在对应部分
+[PASS] 论文结构：问题提出｜应存在对应部分
+[PASS] 论文结构：文献与理论｜应存在对应部分
+[PASS] 论文结构：研究设计｜应存在对应部分
+[PASS] 论文结构：定量结果｜应存在对应部分
+[PASS] 论文结构：结构化定性比较｜应存在对应部分
+[PASS] 论文结构：综合讨论｜应存在对应部分
+[PASS] 论文结构：结论与局限｜应存在对应部分
+[PASS] 论文结构：数据、代码与复现声明｜应存在对应部分
+[PASS] 无末尾参考文献表｜采用内联链接
+[PASS] 无占位标记｜论文不得含未完成占位
+[PASS] 解释边界：不推断实际申诉｜正文须保留边界
+[PASS] 解释边界：不作因果推断｜正文须保留边界
+[PASS] 解释边界：全站FAQ｜正文须保留边界
+[FAIL] 解释边界：不能解释为风险分类｜正文须保留边界
+[PASS] 解释边界：不能据此计算下降率｜正文须保留边界
+[PASS] 无空链接｜链接数=50
+[PASS] 外部来源数量｜唯一外部链接=14
+[PASS] 本地引文与图片路径｜缺失=[]
+[PASS] 图1文件与尺寸｜figure_1_disclosure_chain.png：1920×1020
+[PASS] 图2文件与尺寸｜figure_2_coverage.png：2100×1080
+[PASS] 图3文件与尺寸｜figure_3_category_heatmap.png：1770×1050
+[PASS] 图4文件与尺寸｜figure_4_organization_heatmap.png：1875×1275
+[PASS] 图5文件与尺寸｜figure_5_paired_change.png：1920×1080
+[PASS] 论文嵌入五图｜应有五个PNG图片链接
+SUMMARY｜total=52｜passed=50｜failed=2
