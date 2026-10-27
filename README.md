@@ -30,19 +30,20 @@
 论文.md                         完整论文，内嵌五张图
 数据字典.md                     原始字段、派生指标和解释边界
 analysis/                      下载、分析、人工复核与绘图代码
-data/                          固定原始快照及来源清单
-  processed/                   条目级派生指标与配对数据
+data/                          快照来源清单与许可；原始CSV由恢复脚本写入
+  processed/                   复现后生成条目级派生指标与配对数据
 outputs/                       统计表、模型、稳健性与图表数据
-figures/                       ECharts SVG与静态PNG
+figures/                       五张可直接浏览的SVG；本地复现另生成PNG
 verifier/                      版本化验收标准、运行日志与远端核验
 ```
 
 ## 一键复现已有快照
 
-建议使用Python 3.12和Node.js。仓库已含论文使用的原始CSV，无需联网即可重跑统计。
+建议使用Python 3.12和Node.js。先运行固定快照恢复脚本：它从两个官方公开接口下载CSV，只有在SHA-256与论文归档完全一致时才写入文件；若官网内容已变化，脚本会拒绝把新文件冒充为2026年10月28日快照。
 
 ```bash
 python3 -m pip install -r analysis/requirements.txt
+python3 analysis/restore_archive.py
 python3 analysis/analyze.py
 cd analysis
 npm ci
