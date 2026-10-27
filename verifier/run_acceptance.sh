@@ -4,14 +4,14 @@ ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT" || exit 1
 STAMP="$(date -u +%Y%m%dT%H%M%SZ)"
 LOG="verifier/runs/acceptance_${STAMP}.log"
-COMMAND="python3 analysis/analyze.py && (cd analysis && node render_charts.mjs) && python3 analysis/svg_to_png.py && python3 verifier/verify.py"
+COMMAND="python3 analysis/analyze.py && (cd analysis && node render_charts.mjs) && python3 analysis/svg_to_png.py && python3 verifier/v2/verify.py"
 START="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 {
   printf 'timestamp_start_utc=%s\ncommand=%s\n' "$START" "$COMMAND"
   python3 analysis/analyze.py &&
     (cd analysis && node render_charts.mjs) &&
     python3 analysis/svg_to_png.py &&
-    python3 verifier/verify.py
+    python3 verifier/v2/verify.py
 } >"$LOG" 2>&1
 CODE=$?
 END="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
