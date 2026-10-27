@@ -1,0 +1,71 @@
+timestamp_start_utc=2026-10-27T18:45:28Z
+command=python3 analysis/analyze.py && (cd analysis && node render_charts.mjs) && python3 analysis/svg_to_png.py && python3 verifier/v2/verify.py
+{
+  "snapshot": "2026-10-28",
+  "current_rows": 1608,
+  "current_unique_algorithms": 1608,
+  "current_organizations": 346,
+  "history_rows": 3035,
+  "history_unique_algorithms": 1629,
+  "multi_version_algorithms": 661,
+  "paired_within_v1_algorithms": 539,
+  "automated_remedy_candidates": 22,
+  "manually_validated_remedy_guidance": 17,
+  "manual_review_records": 62,
+  "category_counts": {
+    "Overige algoritmes": 846,
+    "Impactvolle algoritmes": 718,
+    "Hoog-risico AI-systeem": 44
+  },
+  "status_counts": {
+    "In gebruik": 1461,
+    "In ontwikkeling": 78,
+    "Buiten gebruik": 69
+  },
+  "coverage": {
+    "notice": {
+      "count": 1594,
+      "percent": 99.12935323383084
+    },
+    "explain": {
+      "count": 1183,
+      "percent": 73.56965174129353
+    },
+    "challenge": {
+      "count": 1548,
+      "percent": 96.26865671641791
+    },
+    "remedy_mention": {
+      "count": 173,
+      "percent": 10.75870646766169
+    },
+    "remedy_guidance": {
+      "count": 17,
+      "percent": 1.0572139303482586
+    },
+    "chain_complete": {
+      "count": 15,
+      "percent": 0.9328358208955224
+    }
+  }
+}
+Rendered five ECharts SVG figures to /mnt/agents/output/public-algorithm-registers/figures
+figure_1_disclosure_chain.png
+figure_2_coverage.png
+figure_3_category_heatmap.png
+figure_4_organization_heatmap.png
+figure_5_paired_change.png
+Traceback (most recent call last):
+  File "/mnt/agents/output/public-algorithm-registers/verifier/v2/verify.py", line 164, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/mnt/agents/output/public-algorithm-registers/verifier/v2/verify.py", line 45, in main
+    manifest = json.loads((ROOT / "data/source_manifest_2026-10-28.json").read_text())
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/pathlib.py", line 1027, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/agents/output/public-algorithm-registers/verifier/data/source_manifest_2026-10-28.json'
