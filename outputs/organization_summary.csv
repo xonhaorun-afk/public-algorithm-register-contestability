@@ -1,0 +1,347 @@
+org_id,organization,entries,notice_pct,explain_pct,challenge_pct,remedy_mention_pct,remedy_guidance_pct,chain_complete_pct
+gm0363,Gemeente Amsterdam,72,100.0,62.5,72.22222222222221,15.277777777777779,5.555555555555555,5.555555555555555
+189378,Belastingdienst,69,100.0,98.55072463768117,98.55072463768117,5.797101449275362,0.0,0.0
+184120,Douane,48,100.0,100.0,100.0,95.83333333333334,0.0,0.0
+gm0518,Gemeente Den Haag,46,100.0,86.95652173913044,97.82608695652173,13.043478260869565,2.1739130434782608,2.1739130434782608
+gm0344,Gemeente Utrecht,45,100.0,6.666666666666667,100.0,2.2222222222222223,0.0,0.0
+gm0599,Gemeente Rotterdam,30,100.0,30.0,80.0,13.333333333333334,0.0,0.0
+oorg10103,Rijksdienst voor Identiteitsgegevens,22,100.0,95.45454545454545,100.0,31.818181818181817,0.0,0.0
+27244197,Stichting Bureau Informatiediensten Nederland,21,100.0,100.0,95.23809523809523,4.761904761904762,0.0,0.0
+oorg10264,Politie,20,100.0,95.0,100.0,0.0,0.0,0.0
+zb000217,Autoriteit Consument en Markt,18,100.0,83.33333333333334,100.0,0.0,0.0,0.0
+gm0828,Gemeente Oss,17,100.0,70.58823529411765,100.0,11.76470588235294,0.0,0.0
+gm0034,Gemeente Almere,17,100.0,52.94117647058824,88.23529411764706,5.88235294117647,0.0,0.0
+oorg10005,Rijksdienst voor Ondernemend Nederland,17,100.0,94.11764705882352,100.0,35.294117647058826,0.0,0.0
+gm0202,Gemeente Arnhem,16,100.0,100.0,100.0,18.75,6.25,6.25
+gm0014,Gemeente Groningen,15,100.0,100.0,100.0,26.666666666666668,0.0,0.0
+pv20,Provincie Groningen,15,100.0,86.66666666666667,100.0,0.0,0.0,0.0
+gm0603,Gemeente Rijswijk,14,100.0,85.71428571428571,100.0,7.142857142857142,0.0,0.0
+gm0855,Gemeente Tilburg,14,100.0,28.57142857142857,100.0,7.142857142857142,0.0,0.0
+pv28,Provincie Zuid-Holland,13,100.0,92.3076923076923,100.0,61.53846153846154,61.53846153846154,53.84615384615385
+gm0743,Gemeente Asten,13,100.0,61.53846153846154,100.0,7.6923076923076925,0.0,0.0
+gm0772,Gemeente Eindhoven,12,100.0,75.0,100.0,16.666666666666664,0.0,0.0
+zb000117,Uitvoeringsinstituut Werknemersverzekeringen,12,100.0,91.66666666666666,100.0,0.0,0.0,0.0
+117418,Dienst Toeslagen,12,100.0,91.66666666666666,100.0,25.0,0.0,0.0
+gm0715,Gemeente Terneuzen,11,100.0,9.090909090909092,90.9090909090909,0.0,0.0,0.0
+mnre1090,Ministerie van Financiën,11,100.0,100.0,100.0,0.0,0.0,0.0
+pv31,Provincie Limburg,11,100.0,81.81818181818183,90.9090909090909,0.0,0.0,0.0
+gm0823,Gemeente Oirschot,10,60.0,30.0,70.0,10.0,0.0,0.0
+gm0503,Gemeente Delft,10,100.0,90.0,100.0,0.0,0.0,0.0
+gm1952,Gemeente Midden-Groningen,10,100.0,40.0,90.0,10.0,0.0,0.0
+gm0310,Gemeente De Bilt,10,100.0,20.0,100.0,0.0,0.0,0.0
+gm0453,Gemeente Velsen,9,100.0,55.55555555555556,100.0,11.11111111111111,0.0,0.0
+gm0355,Gemeente Zeist,9,88.88888888888889,88.88888888888889,100.0,11.11111111111111,11.11111111111111,11.11111111111111
+gm0867,Gemeente Waalwijk,9,100.0,66.66666666666666,100.0,11.11111111111111,0.0,0.0
+gm0957,Gemeente Roermond,9,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10219,Rijksinspectie Digitale Infrastructuur (RDI),9,100.0,100.0,88.88888888888889,0.0,0.0,0.0
+gm0296,Gemeente Wijchen,8,100.0,75.0,100.0,12.5,0.0,0.0
+pv26,Provincie Utrecht,8,87.5,100.0,100.0,0.0,0.0,0.0
+zb000312,Instituut Mijnbouwschade Groningen,8,100.0,75.0,100.0,12.5,0.0,0.0
+gm1954,Gemeente Beekdaelen,8,100.0,62.5,100.0,0.0,0.0,0.0
+gm0873,Gemeente Woensdrecht,8,100.0,62.5,100.0,12.5,0.0,0.0
+gm0546,Gemeente Leiden,8,100.0,87.5,100.0,0.0,0.0,0.0
+so0789,Omgevingsdienst Noordzeekanaalgebied,8,100.0,25.0,100.0,12.5,0.0,0.0
+gm0907,Gemeente Gennep,8,100.0,62.5,87.5,0.0,0.0,0.0
+gm0479,Gemeente Zaanstad,7,100.0,85.71428571428571,100.0,0.0,0.0,0.0
+41085610,Reclassering Nederland,7,100.0,71.42857142857143,100.0,0.0,0.0,0.0
+gm0826,Gemeente Oosterhout,7,100.0,85.71428571428571,100.0,14.285714285714285,0.0,0.0
+zb000143,Sociale Verzekeringsbank,7,100.0,100.0,100.0,0.0,0.0,0.0
+gm0664,Gemeente Goes,7,100.0,57.14285714285714,100.0,0.0,0.0,0.0
+oorg10101,Nederlands Forensisch Instituut,7,100.0,57.14285714285714,85.71428571428571,0.0,0.0,0.0
+gm1966,Gemeente Het Hogeland,7,100.0,71.42857142857143,100.0,0.0,0.0,0.0
+gm0225,Gemeente Druten,7,100.0,85.71428571428571,100.0,14.285714285714285,0.0,0.0
+oorg10148,Dienst Uitvoering Onderwijs,7,100.0,100.0,100.0,42.857142857142854,0.0,0.0
+gm0748,Gemeente Bergen op Zoom,7,100.0,100.0,100.0,14.285714285714285,0.0,0.0
+gm1970,Gemeente Noardeast Fryslân,7,100.0,28.57142857142857,100.0,14.285714285714285,0.0,0.0
+gm0784,Gemeente Gilze en Rijen,6,100.0,66.66666666666666,100.0,16.666666666666664,0.0,0.0
+gm0879,Gemeente Zundert,6,100.0,66.66666666666666,100.0,16.666666666666664,0.0,0.0
+gm0301,Gemeente Zutphen,6,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm1930,Gemeente Nissewaard,6,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm1942,Gemeente Gooise Meren,6,100.0,83.33333333333334,100.0,0.0,0.0,0.0
+gm0385,Gemeente Edam-Volendam,6,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm0177,Gemeente Raalte,6,100.0,100.0,100.0,0.0,0.0,0.0
+gm0200,Gemeente Apeldoorn,6,100.0,66.66666666666666,83.33333333333334,16.666666666666664,0.0,0.0
+gm1948,Gemeente Meierijstad,6,100.0,50.0,100.0,16.666666666666664,0.0,0.0
+gm1949,Gemeente Waadhoeke,6,100.0,83.33333333333334,100.0,0.0,0.0,0.0
+gm0080,Gemeente Leeuwarden,6,100.0,33.33333333333333,100.0,16.666666666666664,0.0,0.0
+gm0114,Gemeente Emmen,6,100.0,50.0,100.0,0.0,0.0,0.0
+gm0141,Gemeente Almelo,6,100.0,50.0,100.0,0.0,0.0,0.0
+537490,Raad voor de Kinderbescherming,6,100.0,100.0,100.0,0.0,0.0,0.0
+gm1674,Gemeente Roosendaal,6,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm0512,Gemeente Gorinchem,6,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm0575,Gemeente Noordwijk,6,100.0,66.66666666666666,100.0,16.666666666666664,0.0,0.0
+gm1723,Gemeente Alphen-Chaam,6,100.0,66.66666666666666,100.0,16.666666666666664,0.0,0.0
+gm0744,Gemeente Baarle-Nassau,6,100.0,66.66666666666666,100.0,16.666666666666664,0.0,0.0
+gm1731,Gemeente Midden-Drenthe,6,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm1708,Gemeente Steenwijkerland,6,100.0,16.666666666666664,100.0,0.0,0.0,0.0
+gm0737,Gemeente Tytsjerksteradiel,5,80.0,80.0,100.0,0.0,0.0,0.0
+63300664,Stichting Leger des Heils Jeugdbescherming & Reclassering,5,100.0,100.0,100.0,0.0,0.0,0.0
+gm0893,Gemeente Bergen (L),5,100.0,60.0,100.0,0.0,0.0,0.0
+gm0852,Gemeente Waterland,5,100.0,80.0,100.0,0.0,0.0,0.0
+41187265,Stichting Verslavingsreclassering GGZ,5,100.0,100.0,100.0,0.0,0.0,0.0
+gm1891,Gemeente Dantumadiel,5,100.0,40.0,100.0,20.0,0.0,0.0
+gm0307,Gemeente Amersfoort,5,100.0,40.0,100.0,0.0,0.0,0.0
+gm0221,Gemeente Doesburg,5,100.0,100.0,100.0,0.0,0.0,0.0
+gm0171,Gemeente Noordoostpolder,5,100.0,80.0,100.0,20.0,0.0,0.0
+zb000158,Nederlandse Zorgautoriteit (NZa),5,100.0,80.0,80.0,20.0,0.0,0.0
+pv30,Provincie Noord-Brabant,5,100.0,80.0,100.0,0.0,0.0,0.0
+zb000195,Kadaster,5,100.0,20.0,80.0,0.0,0.0,0.0
+gm0209,Gemeente Beuningen,5,100.0,80.0,100.0,0.0,0.0,0.0
+gm1904,Gemeente Stichtse Vecht,5,80.0,40.0,80.0,0.0,0.0,0.0
+gm0396,Gemeente Heemskerk,5,100.0,100.0,100.0,20.0,0.0,0.0
+gm0402,Gemeente Hilversum,5,100.0,100.0,100.0,0.0,0.0,0.0
+mnre1018,Ministerie van Defensie,5,100.0,100.0,100.0,0.0,0.0,0.0
+ws0665,Waterschap Limburg,5,100.0,100.0,100.0,0.0,0.0,0.0
+gm0109,Gemeente Coevorden,5,100.0,80.0,100.0,40.0,0.0,0.0
+so0854,ABG-organisatie,5,100.0,80.0,100.0,20.0,0.0,0.0
+gm0148,Gemeente Dalfsen,5,100.0,100.0,100.0,0.0,0.0,0.0
+gm0059,Gemeente Achtkarspelen,5,40.0,80.0,100.0,0.0,0.0,0.0
+gm0432,Gemeente Opmeer,4,100.0,75.0,100.0,0.0,0.0,0.0
+gm0392,Gemeente Haarlem,4,100.0,100.0,100.0,0.0,0.0,0.0
+gm1940,Gemeente De Fryske Marren,4,100.0,25.0,100.0,0.0,0.0,0.0
+gm0394,Gemeente Haarlemmermeer,4,100.0,100.0,100.0,25.0,0.0,0.0
+mnre1058,Ministerie van Justitie en Veiligheid,4,100.0,100.0,100.0,0.0,0.0,0.0
+mnre1025,"Ministerie van Volksgezondheid, Welzijn en Sport",4,100.0,75.0,75.0,0.0,0.0,0.0
+gm1924,Gemeente Goeree-Overflakkee,4,100.0,50.0,100.0,25.0,0.0,0.0
+pv27,Provincie Noord-Holland,4,100.0,100.0,100.0,25.0,0.0,0.0
+so0335,DCMR Milieudienst Rijnmond,4,100.0,25.0,100.0,0.0,0.0,0.0
+so0670,GGD IJsselland,4,100.0,50.0,100.0,0.0,0.0,0.0
+zb000185,Nederlands Instituut Publieke Veiligheid,4,100.0,100.0,100.0,0.0,0.0,0.0
+gm0262,Gemeente Lochem,4,100.0,50.0,100.0,25.0,0.0,0.0
+gm0268,Gemeente Nijmegen,4,100.0,100.0,100.0,25.0,0.0,0.0
+gm0166,Gemeente Kampen,4,100.0,100.0,100.0,0.0,0.0,0.0
+gm0180,Gemeente Staphorst,4,100.0,100.0,100.0,0.0,0.0,0.0
+gm1876,Gemeente Bronckhorst,4,100.0,50.0,100.0,0.0,0.0,0.0
+gm0654,Gemeente Borsele,4,100.0,50.0,100.0,0.0,0.0,0.0
+gm0770,Gemeente Eersel,4,100.0,0.0,75.0,0.0,0.0,0.0
+gm1719,Gemeente Drimmelen,4,100.0,100.0,100.0,0.0,0.0,0.0
+gm0983,Gemeente Venlo,4,100.0,75.0,100.0,0.0,0.0,0.0
+gm0899,Gemeente Brunssum,4,100.0,25.0,100.0,0.0,0.0,0.0
+gm0938,Gemeente Meerssen,4,100.0,25.0,100.0,0.0,0.0,0.0
+gm0944,Gemeente Mook en Middelaar,4,100.0,75.0,100.0,0.0,0.0,0.0
+gm1773,Gemeente Olst-Wijhe,4,100.0,100.0,75.0,0.0,0.0,0.0
+gm0766,Gemeente Dongen,4,100.0,0.0,100.0,0.0,0.0,0.0
+gm0678,Gemeente Kapelle,4,100.0,0.0,100.0,0.0,0.0,0.0
+gm0717,Gemeente Veere,4,100.0,25.0,100.0,0.0,0.0,0.0
+ws0155,"Waterschap Amstel, Gooi en Vecht",4,100.0,0.0,100.0,0.0,0.0,0.0
+gm0547,Gemeente Leiderdorp,4,100.0,100.0,100.0,0.0,0.0,0.0
+so0710,Regionale Dienst Werk en Inkomen Kromme Rijn Heuvelrug,4,100.0,50.0,100.0,0.0,0.0,0.0
+gm0037,Gemeente Stadskanaal,4,100.0,50.0,100.0,0.0,0.0,0.0
+gm0074,Gemeente Heerenveen,3,100.0,100.0,100.0,0.0,0.0,0.0
+860512,Nationaal Cyber Security Centrum,3,100.0,0.0,100.0,0.0,0.0,0.0
+so0700,Omgevingsdienst Haaglanden,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0153,Gemeente Enschede,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0119,Gemeente Meppel,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+so0713,Omgevingsdienst Midden-Holland,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm0090,Gemeente Smallingerland,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm1525,Gemeente Teylingen,3,100.0,33.33333333333333,100.0,0.0,0.0,0.0
+gm1699,Gemeente Noordenveld,3,100.0,33.33333333333333,100.0,0.0,0.0,0.0
+gm0882,Gemeente Landgraaf,3,100.0,0.0,100.0,0.0,0.0,0.0
+gm0797,Gemeente Heusden,3,100.0,66.66666666666666,100.0,33.33333333333333,0.0,0.0
+gm0798,Gemeente Hilvarenbeek,3,100.0,100.0,100.0,33.33333333333333,0.0,0.0
+gm0847,Gemeente Someren,3,100.0,66.66666666666666,66.66666666666666,0.0,0.0,0.0
+gm0840,Gemeente Rucphen,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0928,Gemeente Kerkrade,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0971,Gemeente Stein,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm0981,Gemeente Vaals,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0703,Gemeente Reimerswaal,3,100.0,0.0,100.0,33.33333333333333,0.0,0.0
+gm0579,Gemeente Oegstgeest,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0556,Gemeente Maassluis,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm0553,Gemeente Lisse,3,100.0,33.33333333333333,100.0,0.0,0.0,0.0
+gm0534,Gemeente Hillegom,3,100.0,33.33333333333333,100.0,0.0,0.0,0.0
+gm0758,Gemeente Breda,3,100.0,66.66666666666666,100.0,33.33333333333333,0.0,0.0
+gm0762,Gemeente Deurne,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0638,Gemeente Zoeterwoude,3,100.0,100.0,100.0,0.0,0.0,0.0
+ws0651,Hoogheemraadschap Hollands Noorderkwartier,3,100.0,66.66666666666666,100.0,33.33333333333333,0.0,0.0
+gm1680,Gemeente Aa en Hunze,3,100.0,100.0,100.0,33.33333333333333,0.0,0.0
+gm1659,Gemeente Laarbeek,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm1640,Gemeente Leudal,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm1652,Gemeente Gemert-Bakel,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0252,Gemeente Heumen,3,100.0,100.0,100.0,0.0,0.0,0.0
+324564,Gemeenschappelijke regeling Regionale ICT-dienst Utrecht,3,100.0,33.33333333333333,100.0,0.0,0.0,0.0
+zb000197,Commissariaat voor de Media (CvdM),3,100.0,33.33333333333333,100.0,0.0,0.0,0.0
+so0435,Dienst Sociale Zaken en Werkgelegenheid Noardwest Fryslân,3,100.0,0.0,100.0,0.0,0.0,0.0
+zb000202,College van Toezicht Auteursrechten (CvTA),3,66.66666666666666,33.33333333333333,100.0,0.0,0.0,0.0
+32122905,Stichting Geonovum,3,100.0,0.0,33.33333333333333,0.0,0.0,0.0
+zb000150,Raad voor Rechtsbijstand,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0197,Gemeente Aalten,3,100.0,100.0,100.0,33.33333333333333,0.0,0.0
+mnre1130,Ministerie van Infrastructuur en Waterstaat,3,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10004,Rijkswaterstaat,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+mnre1153,"Ministerie van Landbouw, Natuur en Voedselkwaliteit",3,100.0,100.0,100.0,33.33333333333333,0.0,0.0
+oorg10117,Logius,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm1911,Gemeente Hollands Kroon,3,100.0,100.0,100.0,33.33333333333333,0.0,0.0
+gm1959,Gemeente Altena,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm1960,Gemeente West Betuwe,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+mnre1045,Ministerie van Economische Zaken en Klimaat,3,100.0,100.0,100.0,33.33333333333333,0.0,0.0
+mnre1013,Ministerie van Buitenlandse Zaken,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+mnre1034,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm1980,Gemeente Dijk en Waard,3,100.0,66.66666666666666,66.66666666666666,0.0,0.0,0.0
+gm1969,Gemeente Westerkwartier,3,100.0,66.66666666666666,100.0,33.33333333333333,0.0,0.0
+oorg10114,Dienst Justitiële Inrichtingen,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0415,Gemeente Landsmeer,3,66.66666666666666,66.66666666666666,100.0,0.0,0.0,0.0
+gm1859,Gemeente Berkelland,3,100.0,66.66666666666666,100.0,33.33333333333333,0.0,0.0
+gm0473,Gemeente Zandvoort,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm1895,Gemeente Oldambt,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0441,Gemeente Schagen,3,100.0,66.66666666666666,100.0,0.0,0.0,0.0
+gm0345,Gemeente Veenendaal,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm1728,Gemeente Bladel,3,100.0,66.66666666666666,66.66666666666666,0.0,0.0,0.0
+gm0228,Gemeente Ede,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0175,Gemeente Ommen,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0232,Gemeente Epe,3,100.0,100.0,100.0,0.0,0.0,0.0
+gm0417,Gemeente Laren,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1695,Gemeente Noord-Beveland,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1676,Gemeente Schouwen-Duiveland,2,100.0,50.0,0.0,0.0,0.0,0.0
+gm0988,Gemeente Weert,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0888,Gemeente Beek,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0502,Gemeente Capelle aan den IJssel,2,100.0,50.0,100.0,0.0,0.0,0.0
+so0840,Modulaire gemeenschappelijke regeling Rijk van Nijmegen,2,100.0,50.0,100.0,0.0,0.0,0.0
+ws0636,HDSR Hoogheemraadschap De Stichtse Rijnlanden,2,100.0,100.0,100.0,0.0,0.0,0.0
+so0833,"SED Organisatie (Gemeente Stede Broec, Enkhuizen, Drechterland)",2,100.0,100.0,50.0,0.0,0.0,0.0
+ws0655,Waterschap Hollandse Delta,2,100.0,50.0,100.0,50.0,0.0,0.0
+gm0147,Gemeente Borne,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0106,Gemeente Assen,2,100.0,100.0,100.0,50.0,0.0,0.0
+so0754,OVER-gemeenten,2,100.0,50.0,100.0,0.0,0.0,0.0
+41131575,Stichting Halt,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0160,Gemeente Hardenberg,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0072,Gemeente Harlingen,2,100.0,100.0,100.0,50.0,0.0,0.0
+gm1655,Gemeente Halderberge,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm1621,Gemeente Lansingerland,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0986,Gemeente Voerendaal,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0796,Gemeente 's-Hertogenbosch,2,50.0,50.0,100.0,0.0,0.0,0.0
+gm0777,Gemeente Etten-Leur,2,100.0,100.0,100.0,0.0,0.0,0.0
+ws0653,Wetterskip Fryslân,2,100.0,100.0,100.0,0.0,0.0,0.0
+ws0661,Waterschap Scheldestromen,2,100.0,100.0,100.0,0.0,0.0,0.0
+mnre1171,Ministerie van Volkshuisvesting en Ruimtelijke Ordening,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm1955,Gemeente Montferland,2,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10104,Justis,2,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10116,Koninklijk Nederlands Meteorologisch Instituut,2,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10102,Nederlandse Voedsel- en Warenautoriteit (NVWA),2,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10123,Rijksinstituut voor Volksgezondheid en Milieu,2,100.0,50.0,50.0,0.0,0.0,0.0
+zb000215,Autoriteit Persoonsgegevens,2,100.0,100.0,100.0,0.0,0.0,0.0
+so0660,Veiligheidsregio Zuid-Holland Zuid,2,100.0,100.0,100.0,0.0,0.0,0.0
+so0665,Samenwerking Kempengemeenten,2,100.0,50.0,50.0,0.0,0.0,0.0
+so0697,Omgevingsdienst regio Utrecht,2,100.0,100.0,100.0,0.0,0.0,0.0
+so0624,Veiligheidsregio Zaanstreek-Waterland,2,100.0,50.0,100.0,0.0,0.0,0.0
+27198742,ICTU,2,100.0,100.0,100.0,0.0,0.0,0.0
+zb000207,CIZ Centrum Indicatiestelling Zorg,2,100.0,100.0,100.0,0.0,0.0,0.0
+zb000184,Kamer van Koophandel,2,100.0,50.0,100.0,0.0,0.0,0.0
+pv29,Provincie Zeeland,2,100.0,100.0,100.0,0.0,0.0,0.0
+so0567,Zeeuws Archief,2,100.0,50.0,100.0,0.0,0.0,0.0
+oorg12354,Inspectie Gezondheidszorg en Jeugd,2,100.0,100.0,100.0,0.0,0.0,0.0
+oorg12355,Inspectie van het Onderwijs (OCW),2,100.0,100.0,100.0,0.0,0.0,0.0
+pv22,Provincie Drenthe,2,100.0,100.0,100.0,0.0,0.0,0.0
+pv24,Provincie Flevoland,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0281,Gemeente Tiel,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0216,Gemeente Culemborg,2,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10222,IND,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0183,Gemeente Tubbergen,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0184,Gemeente Urk,2,100.0,50.0,100.0,0.0,0.0,0.0
+oorg10249,Justitiële Informatiedienst,2,100.0,100.0,100.0,0.0,0.0,0.0
+oorg12349,Nederlandse Arbeidsinspectie,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0448,Gemeente Texel,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0405,Gemeente Hoorn,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm1724,Gemeente Bergeijk,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0376,Gemeente Blaricum,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0340,Gemeente Rhenen,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0351,Gemeente Woudenberg,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1705,Gemeente Lingewaard,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1735,Gemeente Hof van Twente,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1774,Gemeente Dinkelland,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0317,Gemeente Eemnes,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1729,Gemeente Gulpen-Wittem,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0375,Gemeente Beverwijk,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0400,Gemeente Den Helder,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0431,Gemeente Oostzaan,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm0362,Gemeente Amstelveen,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1901,Gemeente Bodegraven-Reeuwijk,2,100.0,100.0,100.0,0.0,0.0,0.0
+gm1900,Gemeente Súdwest-Fryslân,2,100.0,100.0,100.0,50.0,0.0,0.0
+mnre1162,Asiel en Migratie,2,100.0,100.0,100.0,0.0,0.0,0.0
+mnre1109,"Ministerie van Onderwijs, Cultuur en Wetenschap",2,100.0,100.0,100.0,0.0,0.0,0.0
+mnre1073,Ministerie van Sociale Zaken en Werkgelegenheid,2,100.0,100.0,100.0,0.0,0.0,0.0
+so0636,Veiligheidsregio Amsterdam-Amstelland,2,100.0,50.0,100.0,0.0,0.0,0.0
+gm0088,Gemeente Schiermonnikoog,1,100.0,0.0,100.0,0.0,0.0,0.0
+716734,Werkom,1,100.0,100.0,100.0,0.0,0.0,0.0
+738590,Gemeenschappelijke regeling BEL Combinatie,1,100.0,100.0,100.0,0.0,0.0,0.0
+988964,Dienst Uitvoering Subsidies aan Instellingen (DUS-I),1,100.0,100.0,100.0,0.0,0.0,0.0
+9104351,Liander N.V.,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0060,Gemeente Ameland,1,100.0,0.0,100.0,0.0,0.0,0.0
+so0821,Omgevingsdienst Drenthe,1,100.0,100.0,100.0,0.0,0.0,0.0
+ws0664,Waterschap Drents Overijsselse Delta,1,100.0,100.0,100.0,0.0,0.0,0.0
+ws0650,Waterschap Zuiderzeeland,1,100.0,100.0,100.0,0.0,0.0,0.0
+ws0654,Waterschap Aa en Maas,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0820,RUD Zeeland,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0843,Regionale uitvoeringsdienst Utrecht 2.0,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0881,Omgevingsdienst IJsselland,1,100.0,100.0,100.0,0.0,0.0,0.0
+ws0372,Hoogheemraadschap van Delfland,1,100.0,0.0,100.0,100.0,0.0,0.0
+ws0663,Waterschap Vechtstromen,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0150,Gemeente Deventer,1,100.0,100.0,100.0,100.0,0.0,0.0
+gm0093,Gemeente Terschelling,1,100.0,0.0,100.0,0.0,0.0,0.0
+gm0096,Gemeente Vlieland,1,100.0,0.0,100.0,0.0,0.0,0.0
+so0723,Dienst Dommelvallei,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0760,Belastingsamenwerking West-Brabant,1,100.0,0.0,100.0,0.0,0.0,0.0
+so0787,Omgevingsdienst de Vallei,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0794,Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO),1,100.0,100.0,0.0,0.0,0.0,0.0
+gm1700,Gemeente Twenterand,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1667,Gemeente Reusel-de Mierden,1,100.0,100.0,0.0,0.0,0.0,0.0
+gm0995,Gemeente Lelystad,1,100.0,0.0,100.0,100.0,0.0,0.0
+gm1598,Gemeente Koggenland,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0866,Gemeente Waalre,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0880,Gemeente Wormerland,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0889,Gemeente Beesel,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0935,Gemeente Maastricht,1,100.0,100.0,100.0,100.0,0.0,0.0
+gm0820,"Gemeente Nuenen, Gerwen en Nederwetten",1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0848,Gemeente Son en Breugel,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0513,Gemeente Gouda,1,100.0,100.0,100.0,100.0,0.0,0.0
+zb000126,Stichting Skal Biocontrole,1,100.0,0.0,100.0,100.0,100.0,0.0
+zb000142,Staatsbosbeheer,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0629,Gemeente Wassenaar,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0627,Gemeente Waddinxveen,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0753,Gemeente Best,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1771,Gemeente Geldrop-Mierlo,1,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10112,CIBG,1,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10111,Centraal Justitieel Incassobureau,1,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10006,Inspectie Leefomgeving en Transport (ILT),1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1961,Gemeente Vijfheerenlanden,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1926,Gemeente Pijnacker-Nootdorp,1,100.0,0.0,100.0,0.0,0.0,0.0
+mnre1010,Ministerie van Algemene Zaken,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1991,Gemeente Maashorst,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0352,Gemeente Wijk bij Duurstede,1,100.0,100.0,100.0,100.0,0.0,0.0
+gm0327,Gemeente Leusden,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0439,Gemeente Purmerend,1,100.0,100.0,100.0,100.0,0.0,0.0
+gm0406,Gemeente Huizen,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1842,Gemeente Midden-Delfland,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1883,Gemeente Sittard-Geleen,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1894,Gemeente Peel en Maas,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm1896,Gemeente Zwartewaterland,1,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10118,Nationaal Archief,1,100.0,100.0,100.0,0.0,0.0,0.0
+pv21,Provincie Fryslân,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0263,Gemeente Maasdriel,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0246,Gemeente Heerde,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0269,Gemeente Oldebroek,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0285,Gemeente Voorst,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0289,Gemeente Wageningen,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0297,Gemeente Zaltbommel,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0163,Gemeente Hellendoorn,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0168,Gemeente Losser,1,100.0,0.0,100.0,0.0,0.0,0.0
+oorg10215,SSC-ICT,1,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10236,Adviescollege Openbaarheid en Informatiehuishouding (ACOI),1,100.0,100.0,100.0,0.0,0.0,0.0
+oorg10124,Rijksvastgoedbedrijf,1,100.0,0.0,100.0,0.0,0.0,0.0
+gm0193,Gemeente Zwolle,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0222,Gemeente Doetinchem,1,100.0,100.0,100.0,0.0,0.0,0.0
+gm0244,Gemeente Hattem,1,100.0,100.0,100.0,0.0,0.0,0.0
+pv25,Provincie Gelderland,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0696,Omgevingsdienst Flevoland & Gooi en Vechtstreek,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0679,Veiligheidsregio Twente,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0669,Omgevingsdienst Zuid-Holland Zuid,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0476,Veiligheids- en Gezondheidsregio Gelderland-Midden,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0439,Omgevingsdienst Brabant Noord,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0525,Veiligheidsregio Noord- en Oost-Gelderland,1,100.0,100.0,100.0,0.0,0.0,0.0
+so0504,Omgevingsdienst IJmond,1,100.0,100.0,100.0,0.0,0.0,0.0
+zb000149,RDW,1,100.0,100.0,100.0,0.0,0.0,0.0
+zb000162,Nederlandse organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO),1,100.0,0.0,100.0,0.0,0.0,0.0
+zb000193,Centraal Bureau voor de Statistiek,1,100.0,100.0,100.0,0.0,0.0,0.0
+zb000209,Centraal Bureau Rijvaardigheidsbewijzen,1,100.0,100.0,100.0,100.0,100.0,100.0
+zb000210,Centraal Orgaan opvang asielzoekers,1,100.0,100.0,0.0,0.0,0.0,0.0
+243087,Nationaal Coördinator Groningen,1,100.0,100.0,100.0,0.0,0.0,0.0
+198769,Dienst Terugkeer en Vertrek,1,100.0,100.0,100.0,0.0,0.0,0.0
+zb000334,Stichting Groene Erkenningen,1,100.0,0.0,100.0,0.0,0.0,0.0
