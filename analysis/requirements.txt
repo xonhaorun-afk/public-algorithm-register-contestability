@@ -1,0 +1,6 @@
+numpy==2.2.5
+pandas==2.3.2
+scipy==1.16.2
+statsmodels==0.14.5
+requests==2.32.3
+CairoSVG==2.9.1

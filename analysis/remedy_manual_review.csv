@@ -1,0 +1,63 @@
+algorithm_id,name,organization,selection,automated_guidance,manual_guidance,review_note
+96965841,AiBezwaar,Gemeente Heusden,all_automated_candidates,True,False,算法用于处理异议文书；未给出针对本算法或其结果的救济路径。
+29355466,Bepaling inkomensklasse t.b.v. Armoedevoorzieningen ,Gemeente Amsterdam,all_automated_candidates,True,True,明确六周期限，并说明异议发生后可重新核查数据。
+52169768,AiBezwaar (Belastingen),Gemeente Aalten,all_automated_candidates,True,False,算法用于处理异议文书；未给出针对本算法或其结果的救济路径。
+81657793,AiBezwaar (Belastingen),Gemeente Hollands Kroon,all_automated_candidates,True,False,算法用于处理异议文书；未给出针对本算法或其结果的救济路径。
+52569799,aIBezwaar,Gemeente Heemskerk,all_automated_candidates,True,False,算法用于处理异议文书；未给出针对本算法或其结果的救济路径。
+66518929,AiBezwaar (Belastingen),Gemeente Aa en Hunze,all_automated_candidates,True,False,算法用于处理异议文书；未给出针对本算法或其结果的救济路径。
+19124373,BghU Leges lijst,Gemeente Zeist,all_automated_candidates,True,True,明确可向市政府就不当账单提出异议。
+57623362,Overstapportaal Erfpacht,Gemeente Amsterdam,all_automated_candidates,True,True,说明私法行为不可异议，并给出监察员或市议会的投诉／民主问责路径。
+74823752,Toezichtmodel Skal Biocontrole,Stichting Skal Biocontrole,all_automated_candidates,True,True,明确对评分或分类有异议时可在六周内提出。
+73165981,Parkeercontrole scanauto,Gemeente Arnhem,all_automated_candidates,True,True,给出异议网站、六周期限及书面异议选项。
+33869878,Ondersteuning bij de beoordeling van de rijgeschiktheid ,Centraal Bureau Rijvaardigheidsbewijzen,all_automated_candidates,True,True,给出针对决定提出异议的具体网页。
+41525861,Uitrekenen WOZ-waarde,Gemeente Den Haag,all_automated_candidates,True,True,说明对WOZ决定可在日期后六周内提出有理由的异议及后续复核。
+67971871,Beeldherkenning reclamebelasting,Gemeente Amsterdam,all_automated_candidates,True,True,明确可前往税务数字柜台提出异议或上诉。
+78451490,Fiscaal handhaven: Parkeercontrole,Gemeente Amsterdam,all_automated_candidates,True,True,给出异议网站、六周期限及查看证据照片的方式。
+12337864,Parkeervergunning,Gemeente Utrecht,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+13556613,Leefomgeving: Legesberekening,Gemeente Gilze en Rijen,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+14116126,Profiel Doorgangsadres Landelijke Aanpak Adreskwaliteit (LAA),Rijksdienst voor Identiteitsgegevens,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+15858724,Detecteren fiscale risico's in de douaneaangiften mbt ingestelde antidump- en compenserende rechten,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+17713131,Parkeercontrole,Gemeente Eindhoven,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+22739142,Robot proces automatiseren in het WOZ-bezwaren (keten)proces ,Gemeente Tilburg,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+25943636,Detecteren risico’s in douaneaangiften voor naleving vergunningsplicht diergeneesmiddelen,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+26378451,Leefomgeving: Legesberekening,Gemeente Westerkwartier,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+27263916,Landelijke Aanpak Adreskwaliteit (LAA),Gemeente Asten,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+28191647,Informatie Extractie en Classificatie van Documenten voor Inkomensheffing (IECD_IH),Belastingdienst,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+33698247,Zylab Ondersteuning bij Openbaarmaking,"Ministerie van Landbouw, Natuur en Voedselkwaliteit",random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+34995772,Detecteren risico’s op naleving vergunningsplicht precursoren voor explosieven door particulieren,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+35842893,Scanauto,Gemeente Apeldoorn,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+38773626,Profiel Bewoningsgraad Landelijke Aanpak Adreskwaliteit (LAA),Rijksdienst voor Identiteitsgegevens,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+41181368,Geautomatiseerde handhaving milieuzone centrum ring Arnhem,Gemeente Arnhem,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+41675247,Detecteren risico’s voor naleving vergunningsplicht voor de uitvoer sanctiemaatregelen,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+43159752,Parkeercontrole ,Gemeente Gouda,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+43564949,Leefomgeving: Legesberekening,Gemeente Waalwijk,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+43952322,PKO Kennissystemen,Gemeente Goeree-Overflakkee,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+43974391,Leefomgeving: Legesberekening,Gemeente Velsen,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+47653623,Persoonlijke Impact Analyse - Immateriële Schade,Instituut Mijnbouwschade Groningen,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+47735792,Detecteren risico's in douaneaangiften voor naleving vergunningsplicht voor broeikasgasproducten ,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+48513760,Leefomgeving: Legesberekening,Gemeente Noardeast Fryslân,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+52658990,Kentekencamerahandhaving scanauto parkeren,Gemeente Deventer,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+54598456,Homogeniteit algoritme ,Rijksdienst voor Ondernemend Nederland,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+59845821,Detecteren risico’s in douaneaangiften: binnenbrengen en invoer van niet-dierlijke levensmiddelen,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+63733336,Participatie Spotler Engage,Gemeente Coevorden,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+64211448,Detecteren risico’s in douaneaangiften op invoer van producten met gewasbeschermingsmiddelen ,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+64426974,Detecteren risico’s in douaneaangiften op  producten die onder de biologische wetgeving vallen,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+67964521,Proces Kennis Ondersteuning - Sociaal Domein,Gemeente Súdwest-Fryslân,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+76172612,Scanauto kentekenherkenning,Gemeente Bergen op Zoom,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+76439823,Leefomgeving: Legesberekening,Gemeente Alphen-Chaam,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+79125837,Profiel Herinschrijvingen A Landelijke Aanpak Adreskwaliteit (LAA),Rijksdienst voor Identiteitsgegevens,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+79476922,Detecteren fiscale risico’s in douaneaangiften met betrekking tot douanevrijstellingen,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+81942839,Detecteren risico's in douaneaangiften: naleving vergunningsplicht voor ozonlaagafbrekende stoffen,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+82118512,Uitvoeren Loonwaardemeting,Gemeente Amsterdam,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+87594616,"Detecteren risico’s in de douaneaangifte tbv vergunningsplicht in, uit- en doorvoer folterwerktuigen",Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+94782820,Detecteren fiscale risico's in douaneaangiften tot plaatsing onder een bijzondere regeling,Douane,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+94936689,Scanauto kentekenherkenning,Gemeente Den Haag,random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+97912239,Zorgvraagtypering,Nederlandse Zorgautoriteit (NZa),random_40_other_mention_records_seed_20261028,False,False,复核相关字段，未见条目内具体的救济程序、期限或受理去向。
+85298529,PZH-Assist,Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。
+34151769,(Intelligente) Verkeersregelinstallatie (I-VRI),Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。
+43387830,Oog op Zuid-Holland,Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。
+75393739,Voorspellend onderhoud wegen,Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。
+78343766,Polpo,Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。
+87239212,Remote Sensing gebiedsclassificatie op basis van AI beeldherkenning,Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。
+18747788,Keuzehulp WBU-Tabel,Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。
+96895333,Webapplicatie Impactmonitor Brugopening ,Provincie Zuid-Holland,all_automated_candidates,True,True,联系方式字段明确给出异议受理的法律部门、联系邮箱及网页。

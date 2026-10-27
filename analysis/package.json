@@ -1,0 +1,9 @@
+{
+  "name": "algorithm-register-contestability-charts",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ECharts SSR figures for the register study",
+  "dependencies": {
+    "echarts": "5.6.0"
+  }
+}
