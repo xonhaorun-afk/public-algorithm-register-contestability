@@ -1,0 +1,49 @@
+{
+  "snapshot": "2026-10-28",
+  "current_rows": 1608,
+  "current_unique_algorithms": 1608,
+  "current_organizations": 346,
+  "history_rows": 3035,
+  "history_unique_algorithms": 1629,
+  "multi_version_algorithms": 661,
+  "paired_within_v1_algorithms": 539,
+  "automated_remedy_candidates": 22,
+  "manually_validated_remedy_guidance": 17,
+  "manual_review_records": 62,
+  "category_counts": {
+    "Overige algoritmes": 846,
+    "Impactvolle algoritmes": 718,
+    "Hoog-risico AI-systeem": 44
+  },
+  "status_counts": {
+    "In gebruik": 1461,
+    "In ontwikkeling": 78,
+    "Buiten gebruik": 69
+  },
+  "coverage": {
+    "notice": {
+      "count": 1594,
+      "percent": 99.12935323383084
+    },
+    "explain": {
+      "count": 1183,
+      "percent": 73.56965174129353
+    },
+    "challenge": {
+      "count": 1548,
+      "percent": 96.26865671641791
+    },
+    "remedy_mention": {
+      "count": 173,
+      "percent": 10.75870646766169
+    },
+    "remedy_guidance": {
+      "count": 17,
+      "percent": 1.0572139303482586
+    },
+    "chain_complete": {
+      "count": 15,
+      "percent": 0.9328358208955224
+    }
+  }
+}
